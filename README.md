@@ -1,6 +1,8 @@
 # BackEnd Desafios Referencia
 
 Ajustar o README
+https://blog.da2k.com.br/2015/02/08/aprenda-markdown/
+dillinger.io
 
 https://github.com/Guidebook/code-challenges
 
